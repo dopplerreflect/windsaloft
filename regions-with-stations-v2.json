@@ -1,0 +1,726 @@
+[
+  {
+    "region": {
+      "id": "bos",
+      "name": "Northeast - Boston"
+    },
+    "stations": [
+      {
+        "ACK": "Nantucket Memorial Airport"
+      },
+      {
+        "ACY": "Atlantic City International Airport"
+      },
+      {
+        "AGC": "Allegheny County Airport"
+      },
+      {
+        "ALB": "Albany International Airport"
+      },
+      {
+        "AVP": "Wilkes"
+      },
+      {
+        "BDL": "Bradley International Airport"
+      },
+      {
+        "BGR": "Bangor International Airport"
+      },
+      {
+        "BML": "Berlin Regional Airport"
+      },
+      {
+        "BOS": "Logan International Airport"
+      },
+      {
+        "BUF": "Buffalo Niagara International Airport"
+      },
+      {
+        "CAR": "Caribou Municipal Airport"
+      },
+      {
+        "CLE": "Cleveland Hopkins International Airport"
+      },
+      {
+        "CMH": "John Glenn Columbus International Airport"
+      },
+      {
+        "CRW": "Yeager Airport"
+      },
+      {
+        "CVG": "Cincinnati/Northern Kentucky International Airport"
+      },
+      {
+        "EKN": "Elkins"
+      },
+      {
+        "EMI": ""
+      },
+      {
+        "JFK": "John F. Kennedy International Airport"
+      },
+      {
+        "ORF": "Norfolk International Airport"
+      },
+      {
+        "PLB": "Clinton County Airport "
+      },
+      {
+        "PSB": "Mid"
+      },
+      {
+        "PWM": "Portland International Jetport"
+      },
+      {
+        "RIC": "Richmond International Airport"
+      },
+      {
+        "ROA": "Roanoke"
+      },
+      {
+        "SYR": "Syracuse Hancock International Airport"
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "mia",
+      "name": "Southeast - Miami"
+    },
+    "stations": [
+      {
+        "2XG": ""
+      },
+      {
+        "ATL": "Hartsfield–Jackson Atlanta International Airport"
+      },
+      {
+        "CAE": "Columbia Metropolitan Airport"
+      },
+      {
+        "CHS": "Charleston International Airport "
+      },
+      {
+        "CSG": "Columbus Airport"
+      },
+      {
+        "EYW": "Key West International Airport"
+      },
+      {
+        "FLO": "Florence Regional Airport"
+      },
+      {
+        "GSP": "Greenville"
+      },
+      {
+        "HAT": ""
+      },
+      {
+        "ILM": "Wilmington International Airport"
+      },
+      {
+        "JAX": "Jacksonville International Airport"
+      },
+      {
+        "MIA": "Miami International Airport"
+      },
+      {
+        "MLB": "Orlando Melbourne International Airport"
+      },
+      {
+        "PFN": "Panama City"
+      },
+      {
+        "PIE": "St. Pete"
+      },
+      {
+        "RDU": "Raleigh"
+      },
+      {
+        "SAV": "Savannah/Hilton Head International Airport"
+      },
+      {
+        "TLH": "Tallahassee International Airport"
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "chi",
+      "name": "Northcentral - Chicago"
+    },
+    "stations": [
+      {
+        "ABR": "Aberdeen Regional Airport"
+      },
+      {
+        "AXN": "Alexandria Municipal Airport "
+      },
+      {
+        "BFF": "Western Nebraska Regional Airport "
+      },
+      {
+        "BRL": "Southeast Iowa Regional Airport"
+      },
+      {
+        "CGI": "Cape Girardeau Regional Airport"
+      },
+      {
+        "COU": "Columbia Regional Airport"
+      },
+      {
+        "DBQ": "Dubuque Regional Airport"
+      },
+      {
+        "DIK": "Dickinson"
+      },
+      {
+        "DLH": "Duluth International Airport"
+      },
+      {
+        "DSM": "Des Moines International Airport"
+      },
+      {
+        "ECK": ""
+      },
+      {
+        "EVV": "Evansville Regional Airport"
+      },
+      {
+        "FSD": "Sioux Falls Regional Airport "
+      },
+      {
+        "FWA": "Fort Wayne International Airport"
+      },
+      {
+        "GCK": "Garden City Regional Airport"
+      },
+      {
+        "GFK": "Grand Forks International Airport"
+      },
+      {
+        "GLD": "Goodland Municipal Airport "
+      },
+      {
+        "GRB": "Austin Straubel International Airport"
+      },
+      {
+        "GRI": "Central Nebraska Regional Airport"
+      },
+      {
+        "ICT": "Wichita Dwight D. Eisenhower National Airport"
+      },
+      {
+        "IND": "Indianapolis International Airport"
+      },
+      {
+        "INL": ""
+      },
+      {
+        "JOT": ""
+      },
+      {
+        "LOU": "Bowman Field"
+      },
+      {
+        "LSE": "La Crosse Regional Airport"
+      },
+      {
+        "MCW": "Mason City Municipal Airport"
+      },
+      {
+        "MKC": ""
+      },
+      {
+        "MKG": ""
+      },
+      {
+        "MOT": "Minot International Airport"
+      },
+      {
+        "MQT": ""
+      },
+      {
+        "MSP": "Minneapolis"
+      },
+      {
+        "OMA": "Eppley Field"
+      },
+      {
+        "ONL": "O"
+      },
+      {
+        "PIR": "Pierre Regional Airport"
+      },
+      {
+        "RAP": "Rapid City Regional Airport"
+      },
+      {
+        "SGF": "Springfield"
+      },
+      {
+        "SLN": "Salina Regional Airport"
+      },
+      {
+        "SPI": ""
+      },
+      {
+        "SSM": ""
+      },
+      {
+        "STL": "St. Louis Lambert International Airport"
+      },
+      {
+        "TVC": "Cherry Capital Airport"
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "dfw",
+      "name": "Southcentral - Dallas Fort Worth"
+    },
+    "stations": [
+      {
+        "4J3": ""
+      },
+      {
+        "ABI": "Abilene Regional Airport"
+      },
+      {
+        "AMA": "Rick Husband Amarillo International Airport"
+      },
+      {
+        "BHM": "Birmingham"
+      },
+      {
+        "BNA": "Nashville International Airport"
+      },
+      {
+        "BRO": "Brownsville/South Padre Island International Airport"
+      },
+      {
+        "CLL": "Easterwood Airport"
+      },
+      {
+        "CRP": "Corpus Christi International Airport"
+      },
+      {
+        "DAL": "Dallas Love Field"
+      },
+      {
+        "DRT": "Del Rio International Airport"
+      },
+      {
+        "ELP": "El Paso International Airport"
+      },
+      {
+        "FSM": "Fort Smith Regional Airport"
+      },
+      {
+        "GAG": ""
+      },
+      {
+        "H51": ""
+      },
+      {
+        "H52": ""
+      },
+      {
+        "H61": ""
+      },
+      {
+        "HOU": "William P. Hobby Airport"
+      },
+      {
+        "HSV": "Huntsville International Airport "
+      },
+      {
+        "INK": ""
+      },
+      {
+        "JAN": "Jackson International Airport"
+      },
+      {
+        "LBB": "Lubbock Preston Smith International Airport"
+      },
+      {
+        "LCH": "Lake Charles Regional Airport"
+      },
+      {
+        "LIT": "Bill and Hillary Clinton National Airport "
+      },
+      {
+        "LRD": "Laredo International Airport"
+      },
+      {
+        "MEM": "Memphis International Airport"
+      },
+      {
+        "MGM": "Montgomery Regional Airport "
+      },
+      {
+        "MOB": "Mobile Regional Airport"
+      },
+      {
+        "MRF": ""
+      },
+      {
+        "MSY": "Louis Armstrong New Orleans International Airport"
+      },
+      {
+        "OKC": "Will Rogers World Airport"
+      },
+      {
+        "PSX": ""
+      },
+      {
+        "SAT": "San Antonio International Airport"
+      },
+      {
+        "SHV": "Shreveport Regional Airport"
+      },
+      {
+        "SPS": "Wichita Falls Municipal Airport / Sheppard Air Force Base"
+      },
+      {
+        "T01": ""
+      },
+      {
+        "T06": ""
+      },
+      {
+        "T07": ""
+      },
+      {
+        "TRI": "Tri"
+      },
+      {
+        "TUL": ""
+      },
+      {
+        "TYS": "McGhee Tyson Airport"
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "slc",
+      "name": "Rocky Mountains - Salt Lake City"
+    },
+    "stations": [
+      {
+        "ABQ": "Albuquerque International Sunport"
+      },
+      {
+        "ALS": "San Luis Valley Regional Airport"
+      },
+      {
+        "BAM": "Battle Mountain Airport "
+      },
+      {
+        "BCE": "Bryce Canyon Airport"
+      },
+      {
+        "BIL": "Billings Logan International Airport"
+      },
+      {
+        "BOI": "Boise Air Terminal "
+      },
+      {
+        "CZI": ""
+      },
+      {
+        "DEN": "Denver International Airport "
+      },
+      {
+        "DLN": "Dillon Airport"
+      },
+      {
+        "ELY": "Ely Airport "
+      },
+      {
+        "FMN": "Four Corners Regional Airport"
+      },
+      {
+        "GGW": "Glasgow Airport"
+      },
+      {
+        "GJT": "Grand Junction Regional Airport "
+      },
+      {
+        "GPI": ""
+      },
+      {
+        "GTF": "Great Falls International Airport"
+      },
+      {
+        "LAS": "McCarran International Airport"
+      },
+      {
+        "LND": "Hunt Field"
+      },
+      {
+        "LWS": "Lewiston"
+      },
+      {
+        "MBW": ""
+      },
+      {
+        "MLS": "Miles City Municipal Airport"
+      },
+      {
+        "PHX": "Phoenix Sky Harbor International Airport"
+      },
+      {
+        "PIH": "Pocatello Regional Airport"
+      },
+      {
+        "PRC": "Prescott Municipal Airport "
+      },
+      {
+        "PUB": "Pueblo Memorial Airport"
+      },
+      {
+        "RKS": "Rock Springs"
+      },
+      {
+        "RNO": "Reno"
+      },
+      {
+        "ROW": "Roswell International Air Center"
+      },
+      {
+        "SLC": "Salt Lake City International Airport"
+      },
+      {
+        "TCC": "Tucumcari Municipal Airport"
+      },
+      {
+        "TUS": "Tucson International Airport"
+      },
+      {
+        "ZUN": "Black Rock Airport"
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "sfo",
+      "name": "Pacific Coast - San Francisco"
+    },
+    "stations": [
+      {
+        "AST": "Astoria Regional Airport"
+      },
+      {
+        "BIH": "Eastern Sierra Regional Airport"
+      },
+      {
+        "BLH": "Blythe Airport"
+      },
+      {
+        "FAT": "Fresno Yosemite International Airport"
+      },
+      {
+        "FOT": "Rohnerville Airport"
+      },
+      {
+        "GEG": "Spokane International Airport"
+      },
+      {
+        "IMB": ""
+      },
+      {
+        "LKV": "Lake County Airport"
+      },
+      {
+        "ONT": "Ontario International Airport"
+      },
+      {
+        "OTH": "Southwest Oregon Regional Airport"
+      },
+      {
+        "PDX": "Portland International Airport"
+      },
+      {
+        "RBL": "Red Bluff Municipal Airport"
+      },
+      {
+        "RDM": "Roberts Field "
+      },
+      {
+        "SAC": "Sacramento Executive Airport"
+      },
+      {
+        "SAN": "San Diego International Airport "
+      },
+      {
+        "SBA": "Santa Barbara Municipal Airport"
+      },
+      {
+        "SEA": "Seattle"
+      },
+      {
+        "SFO": "San Francisco International Airport"
+      },
+      {
+        "SIY": "Siskiyou County Airport"
+      },
+      {
+        "WJF": "General William J. Fox Airfield"
+      },
+      {
+        "YKM": "Yakima Air Terminal "
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "alaska",
+      "name": "Alaska"
+    },
+    "stations": [
+      {
+        "5AB": ""
+      },
+      {
+        "5AC": ""
+      },
+      {
+        "5AD": ""
+      },
+      {
+        "5AE": ""
+      },
+      {
+        "5AF": ""
+      },
+      {
+        "5AG": ""
+      },
+      {
+        "ADK": ""
+      },
+      {
+        "ADQ": ""
+      },
+      {
+        "AFM": ""
+      },
+      {
+        "AKN": ""
+      },
+      {
+        "ANC": ""
+      },
+      {
+        "ANN": ""
+      },
+      {
+        "BET": ""
+      },
+      {
+        "BRW": ""
+      },
+      {
+        "BTI": ""
+      },
+      {
+        "BTT": ""
+      },
+      {
+        "CDB": ""
+      },
+      {
+        "CZF": ""
+      },
+      {
+        "EHM": ""
+      },
+      {
+        "FAI": ""
+      },
+      {
+        "FT": ""
+      },
+      {
+        "FYU": ""
+      },
+      {
+        "GAL": ""
+      },
+      {
+        "GKN": ""
+      },
+      {
+        "HOM": ""
+      },
+      {
+        "IKO": ""
+      },
+      {
+        "JNU": ""
+      },
+      {
+        "LUR": ""
+      },
+      {
+        "MCG": ""
+      },
+      {
+        "MDO": ""
+      },
+      {
+        "OME": ""
+      },
+      {
+        "ORT": ""
+      },
+      {
+        "OTZ": ""
+      },
+      {
+        "SNP": ""
+      },
+      {
+        "TKA": ""
+      },
+      {
+        "UNK": ""
+      },
+      {
+        "YAK": ""
+      }
+    ]
+  },
+  {
+    "region": {
+      "id": "hawaii",
+      "name": "Hawaii"
+    },
+    "stations": [
+      {
+        "FT": ""
+      },
+      {
+        "HNL": ""
+      },
+      {
+        "ITO": ""
+      },
+      {
+        "KOA": ""
+      },
+      {
+        "LIH": ""
+      },
+      {
+        "LNY": ""
+      },
+      {
+        "OGG": ""
+      }
+    ]
+  }
+]

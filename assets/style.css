@@ -1,0 +1,95 @@
+:root {
+  --border-color: #666;
+  --hover-color: #666;
+}
+body {
+  font-family: sans-serif;
+  background-color: #333;
+  color: white;
+}
+
+.region {
+  border: 3px;
+  border-color: var(--border-color);
+  border-style: inset;
+  border-radius: 10px;
+  margin: 5px;
+}
+.header {
+  border-bottom: 1px solid var(--border-color);
+  text-align: center;
+}
+.header h1 {
+  font-size: 1.25em;
+}
+.header a {
+  text-decoration: none;
+  border: 3px;
+  padding: 5px;
+  border-color: var(--border-color);
+  border-style: ridge;
+  border-radius: 10px;
+}
+.header a:hover {
+  background-color: var(--hover-color);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  border: 3px;
+  border-color: var(--border-color);
+  border-style: ridge;
+  border-radius: 10px;
+}
+li:hover {
+  background-color: var(--hover-color);
+}
+a {
+  color: white;
+}
+ul > a {
+  text-decoration: none;
+}
+.json-markup {
+  font-family: monospace;
+  white-space: pre;
+}
+.json-markup-key {
+  font-weight: bold;
+}
+.json-markup-string {
+  color: lightgreen;
+}
+.json-markup-number {
+  color: yellow;
+}
+
+code {
+  white-space: pre;
+}
+.container {
+  display: grid;
+  width: 410px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+}
+.container > .cell {
+  height: 120px;
+}
+.container > .reportInfo {
+  text-align: left;
+  grid-column: 1 / span 4;
+}
+.container > .reportInfo > span.info {
+  font-size: smaller;
+  margin-right: 1em;
+}
+.container > .reportingStation {
+  grid-column: 2 / span 3;
+}

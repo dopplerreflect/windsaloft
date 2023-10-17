@@ -1,0 +1,33 @@
+//- link(rel='stylesheet' href='/style.css')
+.container
+  .header.reportInfo
+    h1 Winds Aloft
+    span.info.basedOn= `Based on data from ${json.dataBasedOn.replace(/00Z/,'Z')}`
+    span.info.valid= `Valid from ${json.valid.replace(/00Z/,'Z')}`
+    span.info.forUse= `For use from ${json.forUse}`
+
+  .header.nothing
+  .header.reportingStation=`Reporting Station: ${json.station}`
+  .header Altitude
+  .header Direction
+  .header Speed
+  .header Temp
+
+  each forecast in json.dataRows[0].forecast
+    .cell.altitude= forecast.altitude
+    .cell.direction
+      .text= forecast.direction + '°'
+      .arrow
+        if forecast.speed.mph === 0
+          span.nothing
+        else
+          img(src="/arrow.svg" style=`transform: rotate(${forecast.direction}deg)`)
+    .cell.speed
+      .knots= forecast.speed.knots + ' knots'
+      .mph= forecast.speed.mph + ' MPH'
+    .cell.temp
+      .celsius= forecast.temperature ? forecast.temperature.celsius + '℃' : ''
+      .farenheit= forecast.temperature ? forecast.temperature.farenheit + '℉' : ''
+
+//- .code
+//-   code= JSON.stringify(json, null, 2)

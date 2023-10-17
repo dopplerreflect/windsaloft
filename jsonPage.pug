@@ -1,0 +1,16 @@
+doctype html
+
+head
+  link(rel="stylesheet" href="/style.css")
+  title Winds Aloft JSON
+  
+body
+  div.header
+    if data.station
+      a(href=data.station + ".json") #{data.station}.json
+      a(href=data.station + ".html") #{data.station}.html
+
+    else
+      a(href=data.region + ".json") #{data.region}.json
+
+  div !{jsonHTML}

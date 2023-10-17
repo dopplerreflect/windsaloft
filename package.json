@@ -1,0 +1,28 @@
+{
+  "name": "winds-oloft-json",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch . -e js,pug index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Rose",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doppler/winds-aloft-json"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cache-manager": "^2.9.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "json-markup": "^1.1.3",
+    "moment": "^2.22.2",
+    "node-fetch": "^2.6.1",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

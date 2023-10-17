@@ -1,0 +1,26 @@
+doctype html
+
+head
+  link(rel="stylesheet" href="/style.css")
+  title Winds Aloft JSON
+
+body
+  h1 Winds Aloft JSON
+
+  p
+    | Select a region or station below for the winds aloft forecast in JSON format.
+
+  div.regions
+    each obj in regionsWithStations
+      div.region
+        div.header
+          h1
+            a(href='/forecast/'+obj.region.id)= obj.region.name
+        div.stations
+          ul
+            each station in obj.stations
+              a(href='/forecast/'+obj.region.id+'/'+station)
+                li= station
+
+  p
+    a(href="https://github.com/doppler/winds-aloft-json" target="_blank") Source on Github
